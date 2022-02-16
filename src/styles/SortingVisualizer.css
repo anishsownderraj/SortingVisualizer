@@ -1,0 +1,18 @@
+.Background {
+  background-color: #454545;
+  height: 94vh;
+}
+
+.bar-container {
+  position: absolute;
+  height: 94vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.bar {
+  background-color: turquoise;
+  display: inline-block;
+  margin: 0px 2px;
+  width: 6px;
+}
